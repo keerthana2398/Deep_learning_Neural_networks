@@ -186,7 +186,9 @@ plt.legend()
 plt.title('Training vs Validation Loss')
 
 plt.show()
-# 🧠 Deep Learning - Convolutional Neural Networks (CNN) & Recurrent Neural Networks (RNN)
+
+---
+### 🧠 Deep Learning - Convolutional Neural Networks (CNN) & Recurrent Neural Networks (RNN)
 
 ## 📖 Introduction  
 Deep Learning models are categorized into different architectures depending on the nature of data.  
